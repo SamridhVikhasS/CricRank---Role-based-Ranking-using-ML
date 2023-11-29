@@ -1,0 +1,11 @@
+ICC_rank,name,country,prelim_metric,prelim_rank,prelim_rank,kmeans_role,rbml_score,RBML_rank,pca_score,PCA_rank,hussey_index,hussey_rank
+1,SA Yadav,IND,79.477,1,1,LCB,0.499,6,0.055,6,218.72,1
+2,Mohammad Rizwan,PAK,62.466,3,3,F,0.555,1,0.177,1,176.37,7
+3,AK Markram,SA,58.858,4,4,LCB,0.5,5,0.059,5,188.87,4
+4,Babar Azam,PAK,53.26,6,6,F,0.538,2,0.122,2,169.88,8
+5,RR Rossouw,SA,55.703,5,5,LCB,0.488,10,0.01,10,194.64999999999998,3
+6,DJ Malan,ENG,48.2,9,9,LCB,0.504,4,0.07,4,168.87,9
+7,Muhammad Waseem,UAE,66.472,2,2,F,0.529,3,0.083,3,195.0,2
+8,JC Buttler,ENG,50.645,7,7,LCB,0.494,8,0.037,8,179.67,5
+9,AJ Finch,AUS,48.859,8,8,LCB,0.493,9,0.035,9,176.81,6
+10,RR Hendricks,SA,41.293,10,10,LCB,0.496,7,0.043,7,162.18,10
